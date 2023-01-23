@@ -1,6 +1,6 @@
 HR Data Analysis Project
 
-Developed Data Analytics Insights Dashboard from HR Data provided by HR from Atliq Technologies.
+Developed Data Insights Dashboard from Data provided by HR from Atliq Technologies.
 It is a real Data Set, the dashboard focuses on -
 1. People Working Preference - WFH, HWFH, 
 2. Sick Leave Percentage by date
